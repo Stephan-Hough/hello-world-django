@@ -25,7 +25,7 @@ SECRET_KEY = 'your-secret-key'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['18.133.175.121', '18.133.175.121:8000']
+ALLOWED_HOSTS = ['ec2-18-170-90-71.eu-west-2.compute.amazonaws.com', 'hough.cc']
 
 # Application definition
 
